@@ -30,6 +30,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
+# theme: moving
 remote_theme: huangyz0918/moving
 plugins:
   - jekyll-feed
@@ -53,3 +54,4 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+google_analytics: UA-155118064-1
